@@ -15,7 +15,7 @@ let cadi = {
     color: "tan",
     passenger: 5,
     convertible: false,
-    mileage: 12.892
+    mileage: 12892
 };
 
 let fiat = {
@@ -26,4 +26,14 @@ let fiat = {
     passenger: 2,
     convertible: false,
     mileage: 88000
+};
+
+let taxi = {
+    make: "Webville Motors",
+    model: "Taxi",
+    year: 1955,
+    color: "yellow",
+    passenger: 4,
+    convertible: false,
+    mileage: 281341
 };
